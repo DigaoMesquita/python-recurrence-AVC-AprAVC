@@ -1464,9 +1464,7 @@ print('=================================================')
 
 """# **Fechamento**
 
-Portanto, neste projeto, vimos alguns dos fatores que podem resultar em acidentes vasculares cerebrais. Onde a idade estava altamente correlacionada, seguida por hipertensão, doenças cardíacas, nível médio de glicose e já casado.
+Therefore, in this project, we examined some of the factors that may result in stroke events. Age showed the highest correlation, followed by hypertension, heart disease, average glucose level, and marital status.
 
-O Classificador XGB foi um método que teve um bom desempenho. Existem outliers em algumas variáveis, o motivo pelo qual mantive assim é porque essas coisas ou dependem de outros fatores e há possibilidades de haver esse tipo de registro.
-
-Por exemplo, o IMC pode estar alto e ainda assim não haver AVC, pois a pessoa é jovem ou não tem nenhuma doença cardíaca.
+The XGB Classifier was a method that demonstrated good performance.
 """
